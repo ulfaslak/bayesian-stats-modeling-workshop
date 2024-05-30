@@ -1,0 +1,23 @@
+name: pymc-workshop
+channels:
+- conda-forge
+dependencies:
+# Core stack
+- python=3.10
+- build
+- bump2version
+- ipykernel
+- jupyter
+- mamba
+- pip
+# Package dependencies
+- pandas
+- numpy
+- pymc
+- arviz
+- pytensor
+- matplotlib
+- pip:
+  - jax
+  - jaxlib
+  - numpyro
