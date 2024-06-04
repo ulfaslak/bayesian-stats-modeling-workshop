@@ -17,6 +17,7 @@ dependencies:
 - arviz
 - pytensor
 - matplotlib
+- ipywidgets
 - pip:
   - jax
   - jaxlib
