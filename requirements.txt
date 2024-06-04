@@ -1,0 +1,17 @@
+python==3.10
+build
+bump2version
+ipykernel
+jupyter
+mamba
+pip
+pandas
+numpy
+pymc
+arviz
+pytensor
+matplotlib
+ipywidgets
+jax
+jaxlib
+numpyro
